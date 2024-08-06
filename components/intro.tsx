@@ -34,9 +34,9 @@ export default function Intro() {
           initial={{opacity:0,y:100}}
           animate={{opacity:1,y:0}}
           >
-            <span className="font-bold">Hello, I'm Joseph Seo.</span> I'm a 1st year{" "}
+            <span className="font-bold">Hello, I'm Joseph Seo.</span> I'm a 2nd year{" "}
             <span className="font-bold">Computer Science</span> student at Georgia Tech and I'm interested in{" "}
-            <span className="italic"> backend-software development and cyber security</span>.
+            <span className="italic"> software development</span>.
           </motion.h1>
 
           <motion.div className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium"

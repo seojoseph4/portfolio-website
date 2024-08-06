@@ -6,6 +6,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import bonbonImg from "@/public/Bonbon.png";
 import leapImg from "@/public/Leap.png";
 import growerImg from "@/public/Grower.png";
+import stealthImg from "@/public/stealthImg.jpg";
 
 
 export const links = [
@@ -54,6 +55,14 @@ export const projectsData = [
     tags: ["Unity","C#","Git/Github"],
     imageUrl: bonbonImg,
   },
+  {
+    title: "Stealth Start-Up",
+    description:
+      "Developed a prototype for startup software while specializing in front-end development, leveraging React-Native to design and implement dynamic and responsive user interfaces for mobile app",
+    tags: ["React-Native","Node.js","MangoDB"],
+    imageUrl: stealthImg,
+  },
+
 ] as const;
 
 export const skillsData = [
@@ -66,14 +75,10 @@ export const skillsData = [
   "Node.js",
   "Git",
   "Tailwind",
-  "Prisma",
   "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
   "Python",
   "Django",
   "Framer Motion",
+  "Pandas",
+  "React-Native"
 ] as const;
