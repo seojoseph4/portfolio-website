@@ -18,13 +18,13 @@ export default function About() {
             As a second year student, I have delving into the basics of programming and computer science by taking classes in introductory programming and object-oriented programming, 
             and I am continueing to learning more in {" "}
             <span className="font-medium">full-stack development</span> and <span className="font-medium">data structures/algorithms</span>.{" "}{" "}
-            Currently I am self-teaching myself more JavaScript and the React framework as well as learning more about the M.E.R.N stack in general.
+            I am also currently working as a researcher for the GROWER Lab where I work with Python Pandas library and R to clean and analyze weather and outage data.
             I am looking to expand my skill set even further as I love to learn the new technologies. I am currently looking for a{" "}
             <span className="font-medium">entry-level internship position</span> as a software
-            developer.
+            developer or a data scientist.
         </p>
         <p>
-            <span className="italic">When I'm not coding</span>, I enjoy playing
+            When I'm not coding, I enjoy playing
             video games, watching movies, and playing with my dog. I am also learning to cook more to get a taste of home even when I am far away from it in college.
         </p>
     </motion.section>
